@@ -1,0 +1,14 @@
+Press 1 to use whole dollars or 2 to use currency: 2
+What is your starting balance: $234.56
+What is your interest rate? (ie enter 3.5 for 3.5%): 4.6
+How many months do you want to calculate? 2
+===============================
+Enter Month 1 deposits $345.67
+Enter Month 1 withdraws $123.45
+Enter Month 2 deposits $234.56
+Enter Month 2 withdraws $678.90
+
+Ending balance: $14.25
+Total deposits: $580.23
+Total withdraw: $802.35
+Total interest: $1.81
